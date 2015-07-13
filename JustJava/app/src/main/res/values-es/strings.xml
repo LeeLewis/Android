@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="action_settings">Ajustes</string>
+    <string name="thank_you">Gracias!</string>
+    <string name="toppings_header">Ingrediente</string>
+    <string name="name_hint">Nombre</string>
+    <string name="whipped_cream_text">Crema batida (+$1)</string>
+    <string name="chocolate_text">Chocolate (+$2)</string>
+    <string name="quantity_text">Cantidad</string>
+    <string name="order_btn_text">Ordenar</string>
+</resources>
